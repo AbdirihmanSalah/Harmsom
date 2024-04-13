@@ -6,7 +6,8 @@ please use only for fun and educational purposes
 
 install tool
 
-'apt install git`
+`apt install git`
+
 `git clone https://github.com/AbdirihmanSalah/Harmsom.git`
 `cd Harmsom`
 `chmod +x Harmsom.sh`
