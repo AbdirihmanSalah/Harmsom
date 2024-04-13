@@ -8,9 +8,15 @@ install tool
 
 `apt install git`
 
+
 `git clone https://github.com/AbdirihmanSalah/Harmsom.git`
+
+
 `cd Harmsom`
+
+
 `chmod +x Harmsom.sh`
+
 
 Run
 
