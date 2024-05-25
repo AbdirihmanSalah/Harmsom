@@ -4,6 +4,11 @@ this tool uses for fun like send a Viruses For windows and Android both,
 
 please use only for fun and educational purposes 
 
+# image of tool
+
+![virus.png](virus.png)
+
+
 install tool
 
 `apt install git`
